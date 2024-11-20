@@ -20,7 +20,6 @@ const App = () => {
       const users = await getData<Monster[]>(
         "https://jsonplaceholder.typicode.com/users"
       );
-      console.log(users)
       setMonsters(users)
     };
     fetchData();
