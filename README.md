@@ -6,8 +6,7 @@ Welcome to the **React Monsters Rolodex**! This project is a reimplementation of
 
 - [Demo](#demo)  
 - [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Prerequisites](#prerequisites)  
+- [Technologies Used](#technologies-used)   
 - [Installation](#installation)  
 
 ## Demo  
