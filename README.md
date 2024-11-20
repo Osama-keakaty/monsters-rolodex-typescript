@@ -31,4 +31,4 @@ This application is deployed on [Netlify](https://www.netlify.com/), You can vie
 1. Clone the repository:  
 
    ```bash  
-   git clone https://github.com/osama-keakaty/React-Monsters-Rolodex-typescript.git
+   git clone https://github.com/osama-keakaty/monsters-rolodex-typescript.git
